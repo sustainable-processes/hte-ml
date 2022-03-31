@@ -5,3 +5,29 @@ Multivariate chemical reaction optimization involving catalytic systems is a non
 https://pubs.rsc.org/en/content/articlelanding/2022/re/d2re00008c
 
 ![Screenshot](Abstract_fig.png)
+
+### Information on the files
+
+#### Active_learning.ipynb
+Contains the code for the closed-loop optimization workflow.
+
+#### Group_LoO_CV.ipynb
+Contains the code for the leave-one-group-out cross validation.
+
+#### HTE_Dataset_AMP.xlsx
+Contains the required dataset, comprising of SMILES data and yield information.
+
+#### Preprocessing.ipynb
+Contains the code for feature generation.
+
+#### Random_split.ipynb
+Contains the code for the preliminary random split analysis.
+
+#### batchseq.ipynb
+Contains the code for the batch sequential closed-loop workflow.
+
+
+
+### Requirements
+- Sklearn
+- Tensorflow
