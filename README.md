@@ -8,7 +8,7 @@ https://pubs.rsc.org/en/content/articlelanding/2022/re/d2re00008c
 
 ### Information on the files
 
-#### Active_learning.ipynb
+#### Active_learning-seq.ipynb
 Contains the code for the closed-loop optimization workflow.
 
 #### Group_LoO_CV.ipynb
@@ -23,7 +23,7 @@ Contains the code for feature generation.
 #### Random_split.ipynb
 Contains the code for the preliminary random split analysis.
 
-#### batchseq.ipynb
+#### Active_learning-seq.ipynb
 Contains the code for the batch sequential closed-loop workflow.
 
 
