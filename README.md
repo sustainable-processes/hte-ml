@@ -29,5 +29,9 @@ Contains the code for the batch sequential closed-loop workflow.
 
 
 ### Requirements
-- Sklearn
-- Tensorflow
+- sklearn
+- tensorflow
+- xlrd
+- numpy
+- pandas
+- matplotlib
